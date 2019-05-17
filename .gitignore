@@ -173,6 +173,3 @@ fabric.properties
 .idea/misc.xml
 .idea/modules.xml
 .idea/vcs.xml
-qr_image/
-qr_test.py
-requirements.txt
